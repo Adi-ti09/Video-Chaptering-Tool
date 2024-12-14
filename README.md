@@ -1,10 +1,9 @@
 #                            **Video Chaptering Tool**
 
-This project provides a Streamlit-based application that allows users to:
-
-  ###1.Extract and analyze transcripts from YouTube videos.
-  ###2.Perform topic modeling to identify themes within the transcript.
-  ###3.Automatically segment the video into chapters based on the content.
+## This project provides a Streamlit-based application that allows users to:
+  1. Extract and analyze transcripts from YouTube videos.
+  2. Perform topic modeling to identify themes within the transcript.
+  3 .Automatically segment the video into chapters based on the content.
 
 It leverages the YouTube Data API, YouTube Transcript API, and machine learning techniques like Non-negative Matrix Factorization (NMF) to create meaningful chapters.
 
