@@ -1,0 +1,6 @@
+Google API Client Library
+Streamlit
+Pandas
+Numpy
+Scikit-learn
+youtube-transcript-api
