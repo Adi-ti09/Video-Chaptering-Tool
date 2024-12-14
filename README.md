@@ -42,7 +42,7 @@ It leverages the YouTube Data API, YouTube Transcript API, and machine learning 
         4. Enter a name for your client ID and authorized JavaScript origins.
         5. Click on the "Create" button.
 
-   ### ** Get your API key**
+   ### **Get your API key**
         1. In the "APIs & Services" > "Credentials" page, find the "API key" section.
         2. Click on the "Create API key" button.
         3. Copy the API key and store it securely.
